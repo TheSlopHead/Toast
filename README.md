@@ -1,4 +1,5 @@
 # Toast
+[Русский](README.ru.md)
 
 Toast is a virtual LAN tool for playing local-network games over the
 internet, with built-in voice chat and no manual network configuration.
